@@ -1,4 +1,4 @@
-# wine_quality_analysis.ipynb
+# Wine-Quality-Analysis/wine_quality_analysis.ipynb
 
 **Wine Quality Analysis**
 
