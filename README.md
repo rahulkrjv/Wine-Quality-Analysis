@@ -1,4 +1,4 @@
-# Wine-Quality-Analysis/wine_quality_analysis.ipynb
+# README.md
 
 **Wine Quality Analysis**
 
